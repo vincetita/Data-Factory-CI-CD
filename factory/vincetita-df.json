@@ -1,0 +1,9 @@
+{
+	"name": "vincetita-df",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4c6aeb2-b763-47a0-9212-7e870488b98f",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
